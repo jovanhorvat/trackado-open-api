@@ -26,7 +26,7 @@ Any changed properties that are being left out will default to null or empty str
 
 **Content examples**
 
-List from a local database - BusinessPartnersCount represents the number of business partner objects in the database relating to the company
+Updated business partner response body.
 
 ```json
 {
