@@ -8,7 +8,7 @@ Delete business partner in a specific company.
 
 **Auth required** : YES (auth-key and auth-secret in headers)
 
-## Request parameters
+## Request query parameters
 id - the id of the business partner
 
 ## Success Response
