@@ -26,6 +26,12 @@ Each endpoint manipulates or displays information related to the Category, speci
 
 ### Business unit endpoints
 
-Each endpoint manipulates or displays information related to the Category, specified by the user.
+Each endpoint manipulates or displays information related to the Business unit, specified by the user.
 
 * [List business units](business-units/get-business-units.md) : `GET /api/v2/businessunitapi/GetBusinessunits`
+
+### Organizational unit endpoints
+
+Each endpoint manipulates or displays information related to the Organizational unit, specified by the user.
+
+* [List organizational units](organizational-units/get-organizational-units.md) : `GET /api/v2/organizationunitapi/GetOrganizationalUnits`
