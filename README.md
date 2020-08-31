@@ -23,3 +23,9 @@ Each endpoint manipulates or displays information related to the Business partne
 Each endpoint manipulates or displays information related to the Category, specified by the user.
 
 * [List categories](categories/get-categories.md) : `GET /api/v2/categoryapi/GetCategories`
+
+### Business unit endpoints
+
+Each endpoint manipulates or displays information related to the Category, specified by the user.
+
+* [List business units](business-units/get-business-units.md) : `GET /api/v2/businessunitapi/GetBusinessunits`
