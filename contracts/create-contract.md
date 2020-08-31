@@ -12,7 +12,6 @@ Add contract to specific company.
 
 ```json
 {
-    "ContractId": 1,
     "Title": "Test contract",
     "Number": "Test number",
     "Description": "Test description",
