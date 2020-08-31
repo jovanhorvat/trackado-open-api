@@ -16,7 +16,7 @@ No body.
 
 **Code** : `200 OK`
 
-** Notes **
+**Notes**
 Custom field can be of type:
 Text = 0,
 Dropdown,
