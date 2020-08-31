@@ -47,3 +47,12 @@ Each endpoint manipulates or displays information related to the Users, specifie
 Each endpoint manipulates or displays information related to the Custom fields, specified by the user.
 
 * [List custom fields](custom-fields/get-custom-fields.md) : `GET /api/v2/customfieldapi/GetCustomFields`
+
+### Contract endpoints
+
+Each endpoint manipulates or displays information related to the contracts, specified by the user.
+
+* [List contracts](contracts/list-contracts.md) : `POST` `/api/v2/contractapi/List`
+* [Add contract](contracts/add-contract.md) : `POST` `/api/v2/contractapi/Add`
+* [Update contract](contracts/update-contract.md) : `POST` `/api/v2/contractapi/Update`
+* [Delete contract](contracts/delete-contract.md) : `POST` `/api/v2/contractapi/Delete?Id=xxxxx`
