@@ -1,3 +1,16 @@
+# Create contract
+
+Add contract to specific company.
+
+**URL** : `/api/v2/contractapi/Add`
+
+**Method** : `POST`
+
+**Auth required** : YES (auth-key and auth-secret in headers)
+
+## Request body
+
+```json
 {
     "ContractId": 1,
     "Title": "Test contract",
@@ -55,3 +68,24 @@
         }
     ]
 }
+
+```
+
+## Success Response
+
+**Code** : `200 OK`
+
+**Content examples**
+
+Id of the created contract in the "Result" field
+
+```json
+{
+    "Result": 30270,
+    "IsFaulted": false,
+    "IsSystemFault": false,
+    "ErrorMessages": []
+}
+```
+
+
