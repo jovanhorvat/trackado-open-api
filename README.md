@@ -13,7 +13,7 @@ Every request needs to come with authentication key and secret authentication ke
 
 Each endpoint manipulates or displays information related to the Business partner, specified by the user.
 
-* [Show info](user/get.md) : `GET /api/user/`
+* [List business partners](business-partners/list-business-partners.md) : `GET /api/user/`
 * [Update info](user/put.md) : `PUT /api/user/`
 
 ### Account related
