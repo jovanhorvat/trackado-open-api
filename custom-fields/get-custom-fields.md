@@ -16,13 +16,13 @@ No body.
 
 **Code** : `200 OK`
 
-**Notes**
+**Notes**: 
 Custom field can be of type:
 Text = 0,
-Dropdown,
-MultiSelectDropdown,
-Date,
-Number
+Dropdown = 1,
+MultiSelectDropdown = 2,
+Date = 3,
+Number = 4
 
 Only the dropdown and multi select dropdown fields contain values in the options array since they are fields with pre-set values that the user can choose from.
 IsHidden field shows if the field is hidden by the administrator.
