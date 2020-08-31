@@ -2,7 +2,7 @@
 
 ## Endpoints that require Authentication
 
-Closed endpoints require a valid auth-key and secret-auth-key to be included in the headers of the
+Closed endpoints require a valid auth-key and auth-secret to be included in the headers of the
 request.
 
 ## Authentication
