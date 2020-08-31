@@ -1,4 +1,4 @@
-# Create contract
+# Add contract
 
 Add contract to specific company.
 
