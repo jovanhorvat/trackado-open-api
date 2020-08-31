@@ -12,7 +12,7 @@ Add business partner to the specific company.
 
 ```json
 {
-    "Name": "test business partner 222",
+    "Name": "test business partner",
     "Address": "test address",
     "PostalCode": "1000",
     "City": "Skopje",
@@ -43,7 +43,7 @@ Id of the created business partner and his parameters
     "City": "Skopje",
     "Website": "trackado.com",
     "ContactPerson": "tester",
-    "Email": "test@test.com",
+    "Email": "trackado@trackado.com",
     "Phone": "20432430",
     "FiscalInformation": "fiscal info test",
     "VATNumber": "test123"
