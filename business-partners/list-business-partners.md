@@ -40,7 +40,7 @@ List from a local database - BusinessPartnersCount represents the number of busi
             "Phone": "",
             "FiscalInformation": "Q123",
             "VATNumber": ""
-        },
+        }
      ],
     "BusinessPartnersCount": 118
 }
