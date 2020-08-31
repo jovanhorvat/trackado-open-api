@@ -41,3 +41,9 @@ Each endpoint manipulates or displays information related to the Organizational 
 Each endpoint manipulates or displays information related to the Users, specified by the user.
 
 * [List users](users/get-users.md) : `GET /api/v2/usersapi/GetUsers`
+
+### Custom fields endpoints
+
+Each endpoint manipulates or displays information related to the Custom fields, specified by the user.
+
+* [List custom fields](custom-fields/get-custom-fields.md) : `GET /api/v2/customfieldapi/GetCustomFields`
