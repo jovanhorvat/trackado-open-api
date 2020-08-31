@@ -35,3 +35,9 @@ Each endpoint manipulates or displays information related to the Business unit, 
 Each endpoint manipulates or displays information related to the Organizational unit, specified by the user.
 
 * [List organization units](organization-units/get-organization-units.md) : `GET /api/v2/organizationunitapi/GetOrganizationalUnits`
+
+### Users endpoints
+
+Each endpoint manipulates or displays information related to the Users, specified by the user.
+
+* [List users](users/get-users.md) : `GET /api/v2/usersapi/GetUsers`
