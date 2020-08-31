@@ -14,8 +14,8 @@ Any changed properties that are being left out will default to null or empty str
 
 ```json
 {
-    "Id": 15398, // Id of the business partner we want to edit
-    "Name": "test" // the property that we want to edit
+    "Id": 15398,
+    "Name": "test"
 }
 ```
 
