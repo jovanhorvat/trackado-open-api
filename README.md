@@ -1,4 +1,4 @@
-# Trackado open api
+# TRACKADO OPEN API
 
 ## Endpoints that require Authentication
 
