@@ -14,7 +14,9 @@ Every request needs to come with authentication key and secret authentication ke
 Each endpoint manipulates or displays information related to the Business partner, specified by the user.
 
 * [List business partners](business-partners/list-business-partners.md) : `POST /api/v2/businesspartnersapi/List`
-* [Update info](user/put.md) : `PUT /api/user/`
+* [Add business partner](business-partners/add-business-partner.md) : `POST` `/api/v2/businesspartnersapi/add`
+* [Update business partner](business-partners/update-business-partner.md) : `POST` `/api/v2/businesspartnersapi/update`
+* [Delete business partner](business-partners/delete-business-partner.md) : `POST` `/api/v2/businesspartnersapi/delete?id=xxxxx`
 
 ### Account related
 
