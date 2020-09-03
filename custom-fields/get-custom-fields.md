@@ -123,9 +123,9 @@ IsHidden field shows if the field is hidden by the administrator.
         },
         "Options": [
             "test",
-            "TestMULTI",
-            "ABABA",
-            "HAHA"
+            "test2",
+            "test3",
+            "test4"
         ]
     },
     {
