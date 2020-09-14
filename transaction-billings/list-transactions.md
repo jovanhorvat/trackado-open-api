@@ -26,7 +26,7 @@ Getting contract billings requires the user to specify the Page and PageSize. Pa
 
 **Content examples**
 
-List from a database - Count represents the number of contract billing objects in the database relating to the company
+List from a database - Count represents the number of ALL (no matter the page size specified) contract billing objects in the database relating to the company
 
 ```json
 {
