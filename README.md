@@ -56,3 +56,13 @@ Each endpoint manipulates or displays information related to the contracts, spec
 * [Add contract](contracts/add-contract.md) : `POST` `/api/v2/contractapi/Add`
 * [Update contract](contracts/update-contract.md) : `POST` `/api/v2/contractapi/Update`
 * [Delete contract](contracts/delete-contract.md) : `POST` `/api/v2/contractapi/Delete?Id=xxxxx`
+
+### Contract billing transactions endpoints
+
+Each endpoint manipulates or displays information related to the contract billing transactions, specified by the user.
+
+* [List billing transactions](transaction-billings/list-transactions.md) : `POST` `/api/v2/contractapi/List`
+* [Delete billing transaction](transaction-billings/delete-transaction.md) : `POST` `/api/v2/contractapi/Add`
+* [Update billing transcation](transaction-billings/update-transaction.md) : `POST` `/api/v2/contractapi/Update`
+* [Delete billing transcation](transaction-billings/delete-transaction.md) : `POST` `/api/v2/contractapi/Delete?Id=xxxxx`
+* [List exchange rates](transaction-billings/get-exchange-rates.md) : `GET` `/api/v2/contracttransactionsapi/getexchangerates`
