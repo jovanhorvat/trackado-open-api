@@ -23,7 +23,7 @@ No body.
     {
         "Id": 2050,
         "CompanyId": 8189,
-        "Description": "test exchange rate,
+        "Description": "test exchange rate",
         "Rate": 1.5000,
         "BaseCurrency": {
             "Id": 162,
