@@ -26,7 +26,7 @@ Getting contracts requires the user to specify the Page and PageSize. Page size 
 
 **Content examples**
 
-List from a local database - Count represents the number of contract objects in the database relating to the company
+List from a database - Count represents ALL (no matter the page size specified) of the contract objects in the database relating to the company
 
 ```json
 [
@@ -154,7 +154,8 @@ List from a local database - Count represents the number of contract objects in 
                     "ObfuscatedFileName": null,
                     "Description": ""
                 }
-            ]
+            ],
+            "Count": 203
         },
 
 ```
