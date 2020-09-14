@@ -60,9 +60,16 @@ Each endpoint manipulates or displays information related to the contracts, spec
 ### Contract billing transactions endpoints
 
 Each endpoint manipulates or displays information related to the contract billing transactions, specified by the user.
+Each endpoint manipulates or displays information related to the contract billing transactions, specified by the user.
 
 * [List billing transactions](transaction-billings/list-transactions.md) : `POST` `/api/v2/contractapi/List`
 * [Delete billing transaction](transaction-billings/delete-transaction.md) : `POST` `/api/v2/contractapi/Add`
 * [Update billing transcation](transaction-billings/update-transaction.md) : `POST` `/api/v2/contractapi/Update`
 * [Delete billing transcation](transaction-billings/delete-transaction.md) : `POST` `/api/v2/contractapi/Delete?Id=xxxxx`
 * [List exchange rates](transaction-billings/get-exchange-rates.md) : `GET` `/api/v2/contracttransactionsapi/getexchangerates`
+
+### General endpoints
+
+Each endpoint manipulates or displays information related to the general state of the application.
+
+* [Get countries](general/get-countries.md) : `GET` `/api/v2/generalapi/GetCountries`
