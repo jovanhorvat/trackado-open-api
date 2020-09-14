@@ -154,8 +154,9 @@ List from a database - Count represents ALL (no matter the page size specified) 
                     "ObfuscatedFileName": null,
                     "Description": ""
                 }
-            ],
-            "Count": 203
-        },
-
+            }
+        ],
+        "Count": 203
+    }
+}
 ```
