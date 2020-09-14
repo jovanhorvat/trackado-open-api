@@ -25,6 +25,7 @@ Update contract transaction billing for the specific company.
 
 ```json
 {
+    "Id": xxxx,
     "ContractId": xxxx,
     "BillingCycle": 0,
     "BillingAmount": 200,
