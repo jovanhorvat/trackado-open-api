@@ -1,4 +1,4 @@
-# List contracts
+# List contract billings
 
 Get the contracts billings for the specific company.
 
