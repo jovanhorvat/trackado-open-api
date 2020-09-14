@@ -26,7 +26,8 @@ Add contract transaction billing to the specific company.
     "BillingAmount": 200,
     "FirstBillingDate": "2020-02-02",
     "LastBillingDate": "2020-04-01",
-    "Description": "My billing transaction"
+    "Description": "My billing transaction",
+    "ExchangeRateId": 1 // Optional field
 }
 ```
 
