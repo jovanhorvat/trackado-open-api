@@ -1,6 +1,6 @@
-# Add contract transaction billing
+# Delete contract transaction billing
 
-Add contract transaction billing to the specific company.
+Delete contract transaction billing.
 
 **URL** : `/api/v2/contracttransactionsapi/deletetransaction?contractBillingId=xxxx&contractId=xxxx`
 
