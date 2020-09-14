@@ -2,7 +2,7 @@
 
 Add contract transaction billing to the specific company.
 
-**URL** : `https://local.trackado.com:8443/api/v2/contracttransactionsapi/DeleteTransaction?contractBillingId=xxxx&contractId=xxxx`
+**URL** : `/api/v2/contracttransactionsapi/deletetransaction?contractBillingId=xxxx&contractId=xxxx`
 
 **Method** : `POST`
 
