@@ -11,6 +11,10 @@ Add contract transaction billing to the specific company.
 ## Request body
 
 ```json
+    ExchangeRateId is an optional field
+```
+
+```json
     BillingCycle:
         OneTime = 0,
         Monthly = 1,
@@ -27,7 +31,7 @@ Add contract transaction billing to the specific company.
     "FirstBillingDate": "2020-02-02",
     "LastBillingDate": "2020-04-01",
     "Description": "My billing transaction",
-    "ExchangeRateId": 1 // Optional field
+    "ExchangeRateId": 1
 }
 ```
 
