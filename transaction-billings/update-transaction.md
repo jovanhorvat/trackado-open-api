@@ -22,12 +22,17 @@ Update contract transaction billing for the specific company.
         Yearly = 3,
         HalfYearly = 4
 ```
-
+```json
+    BillingType:
+        Cost = 0,
+        Revenue = 1
+```
 ```json
 {
     "Id": xxxx,
     "ContractId": xxxx,
     "BillingCycle": 0,
+    "BillingType": 0,
     "BillingAmount": 200,
     "FirstBillingDate": "2020-02-02",
     "LastBillingDate": "2020-04-01",
