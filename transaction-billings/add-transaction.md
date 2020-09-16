@@ -24,6 +24,12 @@ Add contract transaction billing to the specific company.
 ```
 
 ```json
+    BillingType:
+        Cost = 0,
+        Revenue = 1
+```
+
+```json
 {
     "ContractId": xxxx,
     "BillingCycle": 0,
