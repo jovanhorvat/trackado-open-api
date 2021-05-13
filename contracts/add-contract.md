@@ -10,12 +10,12 @@ Add contract to specific company.
 
 ## Request body
 
-*For the property "Status" refer to the [Contract Status enum](./enums/contract-status.md)*
-*For the property "LifecycleType" refer to the [Lifecycle Type enum](./enums/lifecycle-type.md)*
-*For the property "EndDateHandling" refer to the [End Date Handling enum](./enums/end-date-handling.md)*
-*For the property "NoticeTermType" refer to the [Time Period enum](./enums/time-period.md)*
-*For the property "ProlongationPeriodType" refer to the [Time Period enum](./enums/time-period.md)*
-*For the property "LifecycleFixedPeriodType" refer to the [Lifecycle Fixed Period Type enum](./enums/lifecycle-fixed-period-type.md)*
+*For the property "Status" refer to the [Contract Status enum](./enums/contract-status.md)*<br>
+*For the property "LifecycleType" refer to the [Lifecycle Type enum](./enums/lifecycle-type.md)*<br>
+*For the property "EndDateHandling" refer to the [End Date Handling enum](./enums/end-date-handling.md)*<br>
+*For the property "NoticeTermType" refer to the [Time Period enum](./enums/time-period.md)*<br>
+*For the property "ProlongationPeriodType" refer to the [Time Period enum](./enums/time-period.md)*<br>
+*For the property "LifecycleFixedPeriodType" refer to the [Lifecycle Fixed Period Type enum](./enums/lifecycle-fixed-period-type.md)*<br>
 
 ```json
 {
