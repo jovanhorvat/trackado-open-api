@@ -25,7 +25,7 @@ Add business partner to the specific company.
     "CountryId": 290
 }
 ```
-### Extract the CountryId from [GetCountries](https://github.com/jovanhorvat/trackado-open-api/blob/master/general/get-countries.md)
+** Extract the CountryId from [GetCountries](https://github.com/jovanhorvat/trackado-open-api/blob/master/general/get-countries.md) **
 
 ## Success Response
 
