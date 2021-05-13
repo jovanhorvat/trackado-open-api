@@ -15,10 +15,11 @@ Any changed properties that are being left out will default to null or empty str
 ```json
 {
     "Id": 15398,
-    "Name": "test"
+    "Name": "test business partner",
+    "CountryId": 497
 }
 ```
-
+**Extract the CountryId from [GetCountries](../general/get-countries.md)**
 
 ## Success Response
 
@@ -37,6 +38,11 @@ Updated business partner response body.
     "Email": "",
     "Phone": "",
     "FiscalInformation": "",
-    "VATNumber": ""
+    "VATNumber": "",
+    "Country": {
+        "Id": 497,
+        "Name": "Canada",
+        "TwoLetterName": "CA"
+    }
 }
 ```
