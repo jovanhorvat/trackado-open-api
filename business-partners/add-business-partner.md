@@ -22,10 +22,10 @@ Add business partner to the specific company.
     "Phone": "20432430",
     "FiscalInformation": "fiscal info test",
     "VATNumber": "test123",
-    "CountryId": 290 => Extract the Id from [GetCountries](https://github.com/jovanhorvat/trackado-open-api/blob/master/general/get-countries.md)
+    "CountryId": 290 => 
 }
 ```
-
+# Extract the CountryId from [GetCountries](https://github.com/jovanhorvat/trackado-open-api/blob/master/general/get-countries.md)
 
 ## Success Response
 
