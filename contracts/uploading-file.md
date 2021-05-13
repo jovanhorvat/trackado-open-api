@@ -11,9 +11,9 @@ Add contract file to the specific company.
 ## Request body (form-data)
 
 ```json
-file: byte[],
+fileName: byte[],
 description: "description of the file",
-ContractId: 123
+contractId: 29204
 ```
 
 
@@ -27,7 +27,9 @@ Id of the created contract link and it's name
 
 ```json
 {
-    "Id": 18577,
-    "Message": "hard-delete-company-changes.txt"
+    "Id": 19049,
+    "Name": "post-request-email.txt",
+    "Description": "",
+    "ContractId": 29204
 }
 ```
