@@ -12,7 +12,8 @@ Add contract file to the specific company.
 
 ```json
 file: byte[],
-description: "description of the file"
+description: "description of the file",
+ContractId: 123
 ```
 
 
