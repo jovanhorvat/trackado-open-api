@@ -1,4 +1,4 @@
-# Add contract
+# Add contract to inbox
 
 Add contract draft to the inbox of a specific company.
 
