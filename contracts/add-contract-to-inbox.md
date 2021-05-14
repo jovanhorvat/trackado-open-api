@@ -80,7 +80,7 @@ Id of the created contract in the "Result" field
     "EndDateHandling": 0,
     "ContractDraftAttachments": [
         {
-            "Link": "https://trackadoteststorage.blob.core.windows.net/contracts/rsa-contract-draft-161-1MImDhM29ZOF0dvxZhgM-dummy-pdf.pdf",
+            "Link": "link-to-file",
             "ContractDraftId": 161,
             "Size": 13264,
             "Type": 0,
@@ -92,7 +92,7 @@ Id of the created contract in the "Result" field
             "CreatedOn": "2021-05-14T12:56:24.273Z"
         },
         {
-            "Link": "https://trackadoteststorage.blob.core.windows.net/contracts/rsa-contract-draft-161-DjWiTAae8yqlD8eHLZUf-dummy-pdf.pdf",
+            "Link": "link-to-file",
             "ContractDraftId": 161,
             "Size": 13264,
             "Type": 0,
