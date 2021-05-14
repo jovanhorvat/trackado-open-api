@@ -56,6 +56,7 @@ Each endpoint manipulates or displays information related to the contracts, spec
 * [Add contract](contracts/add-contract.md) : `POST` `/api/v2/contractapi/Add`
 * [Update contract](contracts/update-contract.md) : `POST` `/api/v2/contractapi/Update`
 * [Delete contract](contracts/delete-contract.md) : `POST` `/api/v2/contractapi/Delete?Id=xxxxx`
+* [Add contract to inbox](contracts/add-contract-to-inbox.md) : `POST` `/api/v2/contractapi/AddContractToInbox`
 
 ### Contract billing transactions endpoints
 
