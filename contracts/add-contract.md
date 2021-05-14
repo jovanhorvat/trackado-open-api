@@ -22,7 +22,7 @@ Add contract to specific company.
     "Title": "Test contract",
     "Number": "Test number",
     "Description": "Test description",
-    "Status": 1 [Contract Status enum values](./enums/contract-status.md),
+    "Status": 1,
     "BusinessPartnerIds": [12322, 12321],
     "BusinessUnitId": 7277,
     "CompanyId": 8189,
