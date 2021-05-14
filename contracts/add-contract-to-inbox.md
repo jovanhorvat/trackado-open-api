@@ -23,24 +23,24 @@ Add contract draft to the inbox of a specific company.
 
 ```json
 {
-  Title: "test-contract-draft",
-  Description: "test-contract-description",
-  ContractOwners: ["contract-owner-email-from-existing-user-entity", "contract-owner-email-from-existing-user-entity"] (serialized array),
-  BusinessPartners: ["business-partner-name-from-existing-business-partner-entity", "business-partner-name-from-existing-business-partner-entity"] (serialized array),
-  CategoryName: "category-name-from-existing-category-entity",
-  ContractNumber: "contract-number",
-  LifecycleType: 0,
-  ContractLifecycleStartDate: "2020-08-13",
-  ContractLifecycleEndDate: "2020-08-15",
-  NoticeTermPeriodAmount: 2,
-  NoticeTermPeriodType: 0,
-  ProlongationPeriodAmount: 2,
-  ProlongationPeriodType: 0,
-  EndDateHandling: 0,
-  BusinessUnitName: "business-unit-name-from-existing-business-unit-entity",
-  OrganizationalUnitName: "organizational-unit-name-from-existing-organizational-unit-entity",
-  AdditionalContactPerson: "additional-contact-person-test",
-  Status: 0
+  "Title": "test-contract-draft",
+  "Description": "test-contract-description",
+  "ContractOwners": ["contract-owner-email-from-existing-user-entity", "contract-owner-email-from-existing-user-entity"] (serialized array),
+  "BusinessPartners": ["business-partner-name-from-existing-business-partner-entity", "business-partner-name-from-existing-business-partner-entity"] (serialized array),
+  "CategoryName": "category-name-from-existing-category-entity",
+  "ContractNumber": "contract-number",
+  "LifecycleType": 0,
+  "ContractLifecycleStartDate": "2020-08-13",
+  "ContractLifecycleEndDate": "2020-08-15",
+  "NoticeTermPeriodAmount": 2,
+  "NoticeTermPeriodType": 0,
+  "ProlongationPeriodAmount": 2,
+  "ProlongationPeriodType": 0,
+  "EndDateHandling": 0,
+  "BusinessUnitName": "business-unit-name-from-existing-business-unit-entity",
+  "OrganizationalUnitName": "organizational-unit-name-from-existing-organizational-unit-entity",
+  "AdditionalContactPerson": "additional-contact-person-test",
+  "Status": 0
 };
 ```
 
