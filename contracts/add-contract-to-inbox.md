@@ -17,8 +17,8 @@ Add contract draft to the inbox of a specific company.
 *For the property "ProlongationPeriodType" refer to the [Time Period enum](./enums/time-period.md)*<br>
 *For the property "LifecycleFixedPeriodType" refer to the [Lifecycle Fixed Period Type enum](./enums/lifecycle-fixed-period-type.md)*<br>
 
-*Title is the only required field*
-*All entity related fields should be filled with the name of the entity that already exists for the specific company*
+*Title is the only required field*<br>
+*All entity related fields should be filled with the name of the entity that already exists for the specific company*<br>
 *All correctly attached files to the form-data will be processed and attached to the contract draft*
 
 ```json
