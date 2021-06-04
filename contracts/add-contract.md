@@ -22,10 +22,12 @@ Add contract to specific company.
     "Title": "Test contract",
     "Number": "Test number",
     "Description": "Test description",
+    "CategoryId": 1,
     "Status": 1,
     "BusinessPartnerIds": [12322, 12321],
     "BusinessUnitId": 7277,
     "CompanyId": 8189,
+    "MasterContractId": 1, 
     "ContractLifecycle": {
         "StartDate": "2020-08-13",
         "EndDate": "2020-08-13",
